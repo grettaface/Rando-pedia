@@ -31,10 +31,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="54" selection-start="860" selection-end="860" vertical-scroll-proportion="0.5342298">
+            <state line="39" column="54" selection-start="860" selection-end="860" vertical-scroll-proportion="-7.9454546">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="44" selection-start="515" selection-end="515" vertical-scroll-proportion="0.24054983">
               <folding />
             </state>
           </provider>
@@ -62,6 +71,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/css/main.css" />
         <option value="$PROJECT_DIR$/lib/js/main.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -290,7 +300,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="54" selection-start="860" selection-end="860" vertical-scroll-proportion="0.5342298">
+        <state line="39" column="54" selection-start="860" selection-end="860" vertical-scroll-proportion="-7.9454546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="44" selection-start="515" selection-end="515" vertical-scroll-proportion="0.24054983">
           <folding />
         </state>
       </provider>
