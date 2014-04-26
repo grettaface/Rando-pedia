@@ -387,7 +387,7 @@ body{
     padding: 16px;
     text-align: center;
     font-size: 16px;
-    color: #b52828;
+    color: white;
     position: absolute;
     top:0;
     right: 10px;
@@ -425,7 +425,7 @@ body{
 
 #newWord .button{
     border-radius: 5px;
-
+    font: 900 18px/18px 'Lato','Arial', 'sans-serif';
 }
 
 #mainContent{
@@ -443,7 +443,11 @@ body{
     color: white;
     background: #087eb4;
     font-weight: bold;
-    padding: 0 5px;
+    padding: 10px;
+    text-shadow: none;
+    border-radius: 5px;
+    margin: 10px 0 0;
+    display: inline-block;
 }
 
 #mainContent h1{

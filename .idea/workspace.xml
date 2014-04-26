@@ -25,25 +25,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="72" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-10.88">
+            <state line="38" column="72" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-11.4">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="54" selection-start="860" selection-end="860" vertical-scroll-proportion="-7.9454546">
+            <state line="138" column="157" selection-start="3605" selection-end="3605" vertical-scroll-proportion="0.66992664">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="44" selection-start="515" selection-end="515" vertical-scroll-proportion="0.24054983">
+            <state line="14" column="44" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -52,7 +52,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="406" column="18" selection-start="7630" selection-end="7630" vertical-scroll-proportion="-16.423077">
+            <state line="449" column="26" selection-start="8414" selection-end="8414" vertical-scroll-proportion="-25.26923">
               <folding />
             </state>
           </provider>
@@ -69,9 +69,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/css/main.css" />
         <option value="$PROJECT_DIR$/lib/js/main.js" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -284,30 +284,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="44" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="406" column="18" selection-start="7630" selection-end="7630" vertical-scroll-proportion="-16.423077">
+        <state line="449" column="26" selection-start="8414" selection-end="8414" vertical-scroll-proportion="-25.26923">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="72" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-10.88">
+        <state line="38" column="72" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-11.4">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="54" selection-start="860" selection-end="860" vertical-scroll-proportion="-7.9454546">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="515" selection-end="515" vertical-scroll-proportion="0.24054983">
+        <state line="138" column="157" selection-start="3605" selection-end="3605" vertical-scroll-proportion="0.66992664">
           <folding />
         </state>
       </provider>
