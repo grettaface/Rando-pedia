@@ -411,7 +411,24 @@ body {
     border-bottom: 1px solid #ccc;
     color: #087eb4;
     font: 900 14px/14px 'Lato', 'Arial', 'sans-serif';
+    width: 100%;
+    overflow: auto;
+}
+
+.favTitle{
+    float: left;
     cursor: pointer;
+    height: 20px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 90%;
+}
+
+.removeFavorite{
+    float: right;
+    color: #b52828;
+    font-size: 10px;
 }
 
 .favorite:last-child{
@@ -586,6 +603,7 @@ blockquote p {
 ul {
     list-style-position: inside;
 }
+
 
 
 /******************/
