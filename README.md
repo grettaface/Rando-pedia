@@ -12,4 +12,4 @@ It uses the following.
 * Mobile enabled
 * Implements local storage to maintain state.
 * Allows favoriting of articles
-* Loads an image for an article if it available. Also loads the size of the image based on the device
+* Loads an image for an article if it's available. Also loads the size of the image based on the device
