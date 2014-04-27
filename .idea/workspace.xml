@@ -25,7 +25,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="0" selection-start="2288" selection-end="2288" vertical-scroll-proportion="-6.26">
+            <state line="8" column="21" selection-start="448" selection-end="448" vertical-scroll-proportion="-2.4">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="45" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -34,7 +43,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="174" column="20" selection-start="4009" selection-end="4009" vertical-scroll-proportion="0.42608696">
+            <state line="43" column="25" selection-start="956" selection-end="956" vertical-scroll-proportion="0.55755395">
               <folding />
             </state>
           </provider>
@@ -43,7 +52,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="434" column="1" selection-start="8361" selection-end="8361" vertical-scroll-proportion="-10.846154">
+            <state line="348" column="1" selection-start="7017" selection-end="7017" vertical-scroll-proportion="-19.615385">
               <folding />
             </state>
           </provider>
@@ -73,8 +82,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/css/main.css" />
         <option value="$PROJECT_DIR$/lib/js/main.js" />
       </list>
@@ -226,14 +235,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lib/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lib/fonts" />
       <recent name="$PROJECT_DIR$/lib/img" />
       <recent name="$PROJECT_DIR$/lib/css" />
       <recent name="$PROJECT_DIR$/lib/js" />
-      <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
   <component name="RunManager">
@@ -332,13 +342,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="64" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/img/knitting250px.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -349,23 +352,30 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="434" column="1" selection-start="8361" selection-end="8361" vertical-scroll-proportion="-10.846154">
+        <state line="8" column="21" selection-start="448" selection-end="448" vertical-scroll-proportion="-2.4">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="2288" selection-end="2288" vertical-scroll-proportion="-6.26">
+        <state line="12" column="45" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="348" column="1" selection-start="7017" selection-end="7017" vertical-scroll-proportion="-19.615385">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="20" selection-start="4009" selection-end="4009" vertical-scroll-proportion="0.42608696">
+        <state line="43" column="25" selection-start="956" selection-end="956" vertical-scroll-proportion="0.55755395">
           <folding />
         </state>
       </provider>

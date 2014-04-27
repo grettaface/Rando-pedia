@@ -1,4 +1,4 @@
-# [Rando-pedia](http://bretalankruse.com/work/randopedia)
+# [Randopedia](http://bretalankruse.com/work/randopedia)
 
 An applications built to pull in the Wikipedia API and display a random article
 

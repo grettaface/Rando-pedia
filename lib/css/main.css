@@ -323,8 +323,10 @@ Helper classes
 
 
 * {
-    transition-duration: .5;
     -webkit-transition-duration: .5s;
+    -moz-transition-duration: .5s;
+    -o-transition-duration: .5s;
+    transition-duration: .5s;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -367,16 +369,15 @@ body {
 
 #title {
     float: left;
-    margin: -10px 0 0;
+    margin: 2px 0 0;
     width: 120px;
-    height: 50px;
-    background: transparent url(../img/logo.gif) no-repeat 0 0;
-    background-size: 120px 50px;
+    height: 22px;
+    background: transparent url(../img/randopedia.png) no-repeat 0 0;
+    background-size: 120px 25px;
 }
 
 
-/* MAIN CONTENT */
-
+/* Favorites List */
 #favoriteHolder{
     position:fixed;
     width: 100%;
@@ -461,6 +462,11 @@ body {
     font-size: 12px;
 }
 
+
+
+
+
+/* Loading screen */
 #loading {
     position: fixed;
     top: 0;
@@ -482,6 +488,9 @@ body {
     font: italic 14px/14px 'Lato', 'Arial', sans-serif;
 }
 
+
+
+/* Main content */
 #wordRow {
     text-align: center;
 }
@@ -530,10 +539,8 @@ body {
     margin:0 0 20px;
 }
 
-blockquote p {
-    color: #ccc;
-}
 
+/* Background image */
 #backgroundImage {
     position: fixed;
     top: 0;
@@ -554,6 +561,7 @@ blockquote p {
     height: 100%;
 }
 
+/* Favorite footer */
 #favoriteBar{
     position: fixed;
     width: 100%;
@@ -603,15 +611,22 @@ blockquote p {
     border-left: 1px solid #ccc;
 }
 
+
+/* generic classes */
+
 ul {
     list-style-position: inside;
 }
 
 
+blockquote p {
+    color: #ccc;
+}
 
-/******************/
-/*    RETINA      */
-/******************/
+
+
+
+/* Retina */
 
 @media only screen and (min--moz-device-pixel-ratio: 2),
 
