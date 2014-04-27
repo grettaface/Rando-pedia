@@ -3,7 +3,7 @@
 An applications built to pull in the Wikipedia API and display a random article
 
 It uses the following.
-* Foundation: [http://foundation.zurb.com/](http://foundation.zurb.com/)
+* Bootstrap: [http://getbootstrap.com/](http://getbootstrap.com/)
 * Wikipedia API (Data Source): [http://en.wikipedia.org/w/api.php](http://en.wikipedia.org/w/api.php)
 
 ## Features

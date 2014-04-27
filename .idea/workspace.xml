@@ -25,36 +25,41 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="28" selection-start="2152" selection-end="2152" vertical-scroll-proportion="-14.7">
+            <state line="56" column="0" selection-start="2288" selection-end="2288" vertical-scroll-proportion="-8.66">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="29" selection-start="611" selection-end="611" vertical-scroll-proportion="0.12396694">
+            <state line="211" column="55" selection-start="5115" selection-end="5115" vertical-scroll-proportion="-9.454545">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="44" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="471" column="18" selection-start="9022" selection-end="9022" vertical-scroll-proportion="-15.307693">
+            <state line="413" column="20" selection-start="8038" selection-end="8038" vertical-scroll-proportion="0.65171194">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="knitting250px_@2X.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/img/knitting250px_@2X.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="knitting250px.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/img/knitting250px.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -70,8 +75,8 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/lib/css/main.css" />
         <option value="$PROJECT_DIR$/lib/js/main.js" />
+        <option value="$PROJECT_DIR$/lib/css/main.css" />
       </list>
     </option>
   </component>
@@ -174,6 +179,24 @@
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smashing App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smashing App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -206,10 +229,10 @@
       <recent name="$PROJECT_DIR$/lib/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/fonts" />
+      <recent name="$PROJECT_DIR$/lib/img" />
       <recent name="$PROJECT_DIR$/lib/css" />
       <recent name="$PROJECT_DIR$/lib/js" />
-      <recent name="$PROJECT_DIR$/lib/img" />
-      <recent name="$PROJECT_DIR$/lib/fonts" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
@@ -311,28 +334,38 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
+        <state line="5" column="64" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/img/knitting250px.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/img/knitting250px_@2X.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="28" selection-start="2152" selection-end="2152" vertical-scroll-proportion="-14.7">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="471" column="18" selection-start="9022" selection-end="9022" vertical-scroll-proportion="-15.307693">
+        <state line="56" column="0" selection-start="2288" selection-end="2288" vertical-scroll-proportion="-8.66">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="29" selection-start="611" selection-end="611" vertical-scroll-proportion="0.12396694">
+        <state line="211" column="55" selection-start="5115" selection-end="5115" vertical-scroll-proportion="-9.454545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="413" column="20" selection-start="8038" selection-end="8038" vertical-scroll-proportion="0.65171194">
           <folding />
         </state>
       </provider>
