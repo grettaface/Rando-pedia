@@ -25,17 +25,37 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="64" selection-start="909" selection-end="909" vertical-scroll-proportion="0.42775667">
+            <state line="80" column="58" selection-start="3104" selection-end="3104" vertical-scroll-proportion="0.54372627">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="plugins.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/js/plugins.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="45" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="0" selection-end="733" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="combined.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/js/combined.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="545" selection-start="32700" selection-end="32700" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/js/bootstrap.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="56" selection-start="0" selection-end="28631" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,41 +63,9 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="38" selection-start="3451" selection-end="3451" vertical-scroll-proportion="-11.846154">
+            <state line="137" column="57" selection-start="0" selection-end="7542" vertical-scroll-proportion="-7.8076925">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="106006" selection-end="106006" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="348" column="1" selection-start="7017" selection-end="7017" vertical-scroll-proportion="-19.615385">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="knitting250px_@2X.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/img/knitting250px_@2X.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="knitting250px.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/img/knitting250px.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -94,7 +82,13 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/css/main.css" />
         <option value="$PROJECT_DIR$/lib/js/main.js" />
+        <option value="$PROJECT_DIR$/Grunfile.js" />
+        <option value="$PROJECT_DIR$/gruntfile.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/lib/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/lib/css/combined.css" />
+        <option value="$PROJECT_DIR$/lib/js/combined.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -369,30 +363,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/css/main.css">
+    <entry file="file://$PROJECT_DIR$/lib/css/bootstrap-responsive.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="348" column="1" selection-start="7017" selection-end="7017" vertical-scroll-proportion="-19.615385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="38" selection-start="3451" selection-end="3451" vertical-scroll-proportion="-11.846154">
+        <state line="9" column="0" selection-start="0" selection-end="16840" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="106006" selection-end="106006" vertical-scroll-proportion="0.0">
+        <state line="11" column="0" selection-start="0" selection-end="106008" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="336" column="1" selection-start="0" selection-end="11677" vertical-scroll-proportion="-12.692307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="1" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/combined.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="22228" selection-start="126908" selection-end="126908" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="0" selection-end="733" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="57" selection-start="0" selection-end="7542" vertical-scroll-proportion="-7.8076925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="56" selection-start="0" selection-end="28631" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/js/combined.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="545" selection-start="32700" selection-end="32700" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="64" selection-start="909" selection-end="909" vertical-scroll-proportion="0.42775667">
+        <state line="80" column="58" selection-start="3104" selection-end="3104" vertical-scroll-proportion="0.54372627">
           <folding />
         </state>
       </provider>
