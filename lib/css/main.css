@@ -422,6 +422,7 @@ body {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
+    margin: 8px 0 0;
     width: 90%;
 }
 
@@ -429,6 +430,8 @@ body {
     float: right;
     color: #b52828;
     font-size: 10px;
+    cursor: pointer;
+    margin: 10px 0 0;
 }
 
 .favorite:last-child{
