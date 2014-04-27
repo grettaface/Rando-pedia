@@ -25,7 +25,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="72" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-11.4">
+            <state line="50" column="28" selection-start="2152" selection-end="2152" vertical-scroll-proportion="-14.7">
               <folding />
             </state>
           </provider>
@@ -34,7 +34,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="157" selection-start="3605" selection-end="3605" vertical-scroll-proportion="0.66992664">
+            <state line="24" column="29" selection-start="611" selection-end="611" vertical-scroll-proportion="0.12396694">
               <folding />
             </state>
           </provider>
@@ -52,7 +52,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="449" column="26" selection-start="8414" selection-end="8414" vertical-scroll-proportion="-25.26923">
+            <state line="471" column="18" selection-start="9022" selection-end="9022" vertical-scroll-proportion="-15.307693">
               <folding />
             </state>
           </provider>
@@ -68,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/css/main.css" />
         <option value="$PROJECT_DIR$/lib/js/main.js" />
       </list>
@@ -175,6 +175,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smashing App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smashing App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -188,14 +206,21 @@
       <recent name="$PROJECT_DIR$/lib/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/css" />
+      <recent name="$PROJECT_DIR$/lib/js" />
       <recent name="$PROJECT_DIR$/lib/img" />
       <recent name="$PROJECT_DIR$/lib/fonts" />
-      <recent name="$PROJECT_DIR$/lib/js" />
-      <recent name="$PROJECT_DIR$/lib/css" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -291,23 +316,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="449" column="26" selection-start="8414" selection-end="8414" vertical-scroll-proportion="-25.26923">
+        <state line="50" column="28" selection-start="2152" selection-end="2152" vertical-scroll-proportion="-14.7">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/lib/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="72" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-11.4">
+        <state line="471" column="18" selection-start="9022" selection-end="9022" vertical-scroll-proportion="-15.307693">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="157" selection-start="3605" selection-end="3605" vertical-scroll-proportion="0.66992664">
+        <state line="24" column="29" selection-start="611" selection-end="611" vertical-scroll-proportion="0.12396694">
           <folding />
         </state>
       </provider>

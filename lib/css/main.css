@@ -97,25 +97,9 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ==========================================================================
-   Helper classes
-   ========================================================================== */
+Helper classes
+========================================================================== */
 
 /*
  * Image replacement
@@ -225,9 +209,9 @@ textarea {
 }
 
 @media print,
-       (-o-min-device-pixel-ratio: 5/4),
-       (-webkit-min-device-pixel-ratio: 1.25),
-       (min-resolution: 120dpi) {
+(-o-min-device-pixel-ratio: 5/4),
+(-webkit-min-device-pixel-ratio: 1.25),
+(min-resolution: 120 dpi) {
     /* Style adjustments for high resolution devices */
 }
 
@@ -303,16 +287,12 @@ textarea {
     }
 }
 
-
 /* ICON FONTS */
 
 @font-face {
     font-family: 'icomoon';
-    src:url('../fonts/icomoon.eot?bpmp7g');
-    src:url('../fonts/icomoon.eot?#iefixbpmp7g') format('embedded-opentype'),
-    url('../fonts/icomoon.woff?bpmp7g') format('woff'),
-    url('../fonts/icomoon.ttf?bpmp7g') format('truetype'),
-    url('../fonts/icomoon.svg?bpmp7g#icomoon') format('svg');
+    src: url('../fonts/icomoon.eot?bpmp7g');
+    src: url('../fonts/icomoon.eot?#iefixbpmp7g') format('embedded-opentype'), url('../fonts/icomoon.woff?bpmp7g') format('woff'), url('../fonts/icomoon.ttf?bpmp7g') format('truetype'), url('../fonts/icomoon.svg?bpmp7g#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -335,79 +315,73 @@ textarea {
     content: "\e600";
 }
 
-
-*{
+* {
     transition-duration: .5;
     -webkit-transition-duration: .5s;
-    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
-body{
-    background: black url(../img/congruent_outline.png)  repeat 0 0;
+body {
+    background: black url(../img/congruent_outline.png) repeat 0 0;
 
 }
 
-#junkDiv{
-    visibility:hidden;
+#junkDiv {
+    visibility: hidden;
     position: absolute;
-    top:0;
-    left:0;
+    top: 0;
+    left: 0;
     height: 0;
     width: 0;
     overflow: hidden;
 }
 
-
-
 /* HEADER */
-#header{
+#header {
     height: 50px;
     padding: 10px 15px;
     color: white;
     font-weight: bold;
     position: fixed;
-    top:0;
-    left:0;
+    top: 0;
+    left: 0;
     z-index: 10;
     width: 100%;
     max-width: 100%;
-    background: rgba(0,0,0,.3);
-
+    background: rgba(0, 0, 0, .3);
 }
 
-#title{
+#header.row {
+    margin: 0;
+}
+
+#title {
     float: left;
-    margin: 5px 0 0;
+    margin: -10px 0 0;
+    width: 120px;
+    height: 50px;
+    background: transparent url(../img/logo.gif) no-repeat 0 0;
+    background-size: 120px 50px;
 }
 
-#favoriting{
-    width: 50px;
-    height: 60px;
-    float: right;
-    padding: 16px;
-    text-align: center;
-    font-size: 16px;
-    color: white;
-    position: absolute;
-    top:0;
-    right: 10px;
-}
 
 /* MAIN CONTENT */
 
-#loading{
+#loading {
     position: fixed;
     top: 0;
-    left:0;
+    left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0,0,0,.8);
+    background: rgba(0, 0, 0, .8);
     z-index: 100;
     color: white;
     display: none;
 }
 
-#loading #loadContent{
+#loading #loadContent {
     position: relative;
     width: 200px;
     margin: -30px auto 0;
@@ -416,62 +390,126 @@ body{
     font: italic 14px/14px 'Lato', 'Arial', sans-serif;
 }
 
-#newWord{
-    margin: 60px auto 0;
-    position: relative;
-    z-index:2;
-    padding: 10px;
+#wordRow {
+    text-align: center;
 }
 
-#newWord .button{
+#newWord {
+    position: relative;
+    float: right;
+    z-index: 2;
+}
+
+#newWord .button {
     border-radius: 5px;
-    font: 900 18px/18px 'Lato','Arial', 'sans-serif';
+    font: 900 18px/18px 'Lato', 'Arial', 'sans-serif';
 }
 
-#mainContent{
-    margin: auto;
+.container {
+    max-width: 960px !important;
+}
+
+#mainContent {
+    margin: 60px auto;
     position: relative;
-    z-index:2;
+    z-index: 2;
     width: 100%;
     color: white;
-    font: 400 16px/16px 'Lato', Arial, san-serif;
-    text-shadow: 0 2px 1px rgba(0,0,0,.5);
+    font: 400 16px/24px 'Lato', Arial, san-serif;
+    text-shadow: 0 2px 1px rgba(0, 0, 0, .5);
 
 }
 
-#mainContent a{
-    color: white;
+#contentCTA {
     background: #087eb4;
-    font-weight: bold;
-    padding: 10px;
-    text-shadow: none;
-    border-radius: 5px;
-    margin: 10px 0 0;
-    display: inline-block;
+    box-shadow: none;
+    border-bottom: none;
+    margin: 0 0 10px
 }
 
-#mainContent h1{
+#contentCTA a {
+    color: white;
+    text-shadow: none;
+}
+
+#mainContent h1 {
     color: white;
     font: 900 28px/28px 'Lato', Arial, san-serif;
 }
 
-#backgroundImage{
-    position:fixed;
+blockquote p {
+    color: #ccc;
+}
+
+#backgroundImage {
+    position: fixed;
     top: 0;
     left: 0;
     min-width: 100%;
     min-height: 100%;
     background-size: cover;
     background-position: center center;
-    opacity:0;
+    opacity: 0;
 }
 
-#backgroundCover{
+#backgroundCover {
     position: absolute;
-    top:0;
-    left:0;
-    background: rgba(0,0,0,.5);
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .5);
     width: 100%;
     height: 100%;
+}
 
+#favoriteBar{
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    background: rgba(0,0,0,.5);
+    display: none;
+}
+
+#favoriteAlert{
+    background: white;
+    position: absolute;
+    right: 10px;
+    bottom: 60px;
+    border-radius: 5px;
+    padding: 2px 12px;
+    font-size: 10px;
+    opacity: 0;
+}
+
+#favorites{
+    float: right;
+    margin: 20px 20px 0 0;
+    color: white;
+    cursor: pointer;
+}
+
+#favorites.fav{
+    color: #b52828;
+}
+
+#favBtn{
+    position: relative;
+    margin: 10px 0 0 10px;
+    padding: 5px 0px 5px 10px;
+    border: none;
+}
+
+#favNumber{
+    padding: 10px 10px 9px;
+    font-weight: bold;
+    font-size: 10px;
+    margin: 0 0 0 5px;
+    text-align: center;
+    border-left: 1px solid #ccc;
+}
+
+ul {
+    list-style-position: inside;
 }

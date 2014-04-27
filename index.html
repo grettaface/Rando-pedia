@@ -13,13 +13,13 @@
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         <link href='http://fonts.googleapis.com/css?family=Lato:400,900' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="lib/css/normalize.css">
-        <link rel="stylesheet" href="lib/css/foundation.min.css">
+        <link rel="stylesheet" href="lib/css/bootstrap.min.css">
+        <link rel="stylesheet" href="lib/css/bootstrap-responsive.min.css">
         <link rel="stylesheet" href="lib/css/main.css">
+
         <script src="lib/js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
-
-        <div id="junkDiv"></div>
 
         <div id="loading">
             <div id="loadContent">
@@ -29,20 +29,27 @@
         </div>
 
         <div id="header" class="row">
-            <div id="title">Rando-Pedia</div>
-            <div id="favoriting" class="icon-heart">
+            <div id="title"></div>
+            <div id="newWord">
+                <div class="btn" onclick="getRandomFeed()">Get a new word!</div>
             </div>
         </div>
 
-        <div id="newWord" class="row">
-            <div class="column">
-                <div class="button two columns" onclick="getRandomFeed()">Get a new word!</div>
+        <div class="container">
+            <div id="wordRow"  class="row">
+                <div id="mainContent" class="span12">
+                    <div id="contentTitle"></div>
+                    <div id="contentDescription"></div>
+                    <div id="contentCTA" class="btn"></div>
+                </div>
             </div>
         </div>
 
-        <div id="mainContent" class="row">
-            <div id="contentTitle" class="columns"></div>
-            <div id="contentDescription" class="columns"></div>
+        <div id="favoriteBar">
+            <div id="favoriteAlert">added to your favorites</div>
+            <div id="favorites" class="icon-heart"></div>
+            <div id="favBtn" class="btn">Favorites</div>
+
         </div>
 
         <div id="backgroundImage">
@@ -52,8 +59,8 @@
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="lib/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="lib/js/plugins.js"></script>
-        <script src="lib/js/foundation.min.js"></script>
         <script src="lib/js/main.js"></script>
+        <script src="lib/js/bootstrap.min.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
